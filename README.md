@@ -22,13 +22,12 @@ The goal of this dashboard is to extract meaningful insights about batting and b
 
 ### 🔹 Report Image 1 – Batting & Wicket Analysis
 
-<img src= "https://ibb.co/PszT9yP8" width="100%" />
+<img src="https://raw.githubusercontent.com/udhayanithi2004-tech/cricketdata_powerBi/main/cricket%20analysis%20(2).png" width="800" alt="Batting and Wicket Analysis">
+ 
 
 ### 🔹 Report Image 2 – Runs & Innings Summary
 
-<img src= "https://ibb.co/2G75HcF"  width="100%" />
-
----
+<img src="https://raw.githubusercontent.com/udhayanithi2004-tech/cricketdata_powerBi/main/cricket%20analysis.png" width="800" alt="Runs and Innings Summary">
 
 # 📈 Key Insights from the Report
 
